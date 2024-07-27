@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1722079607552,
+      "tag": "0000_spooky_queen_noir",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1722081387147,
+      "tag": "0001_smart_mercury",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1722087525196,
+      "tag": "0002_left_slapstick",
+      "breakpoints": true
+    }
+  ]
+}
